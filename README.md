@@ -34,30 +34,16 @@ When all teams have connected their sensor to the master, the workshop leader sh
 ## Broader Picture: Sensor Design Workshops
 
 The code provided here is used in the final moments of a workshop in which students make their own sensor. How students make their sensor is dependent on their starting level. I have run this workshop successfully with 
-<<<<<<< HEAD
-<<<<<<< HEAD
-- high school kids (age 16-18) for the JuniorDelft program (junior.tudelft.nl, dutch only)
-=======
-- high school kids (age 16-18) for the JuniorDelft program (http://junior.tudelft.nl, dutch only)
->>>>>>> dev
-- undergrad students (http://ocw.tudelft.nl/courses/bachelor-civiele-techniek/meten-aan-water/course-home/, dutch only)
-- international students and researchers in Africa (www.tahmo.org)
-=======
 * high school kids (age 16-18) for the JuniorDelft program (http://junior.tudelft.nl, dutch only)
 * undergrad students (http://ocw.tudelft.nl/courses/bachelor-civiele-techniek/meten-aan-water/course-home/, dutch only)
 * international students and researchers in Africa (www.tahmo.org)
->>>>>>> dev
 
 Information on how to run the first part of the workshop, in which students make their own sensor, will be posted on different websites in the future. Links will be provided here when this information becomes available.
 
 ==============================
 ## Acknowledgements
 
-<<<<<<< HEAD
-All code in this project is written by Rolf Hut (@RolfHut) of Delft University of Technology, but borrows heavily on earlier code written by Adam Gleave of Cambridge University. Parts of the code develop for this workshop was first written for the TAHMO sensor design competition, see tahmo.org. Cleaning up of the code was done for the "Junior Delft Streaming Water" workshop, see junior.tudelft.nl (in dutch)
-=======
 All code in this project is written by Rolf Hut (http://twitter.com/@RolfHut) of Delft University of Technology, but borrows heavily on earlier code written by Adam Gleave of Cambridge University. Parts of the code developed for this workshop was first written for the TAHMO sensor design competition, see www.tahmo.org. Cleaning up of the code was done for the "Junior Delft Streaming Water" workshop, see http://junior.tudelft.nl (in dutch)
->>>>>>> dev
 
 ==============================
 ## Using and Citing this work.
