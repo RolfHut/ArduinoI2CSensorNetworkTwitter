@@ -43,7 +43,7 @@ Information on how to run the first part of the workshop, in which students make
 ==============================
 Acknowledgements
 
-All code in this project is written by Rolf Hut (@RolfHut) of Delft University of Technology, but borrows heavily on earlier code written by Adam Gleave of Cambridge University. Parts of the code develop for this workshop was first written for the TAHMO sensor design competition, see tahmo.org. Cleaning up of the code was done for the "Junior Delft Streaming Water" workshop, see junior.tudelft.nl (in dutch)
+All code in this project is written by Rolf Hut (@RolfHut) of Delft University of Technology, but borrows heavily on earlier code written by Adam Gleave of Cambridge University. Parts of the code developed for this workshop was first written for the TAHMO sensor design competition, see tahmo.org. Cleaning up of the code was done for the "Junior Delft Streaming Water" workshop, see junior.tudelft.nl (in dutch)
 
 ==============================
 Using and Citing this work.
