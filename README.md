@@ -50,7 +50,7 @@ All code in this project is written by Rolf Hut (http://twitter.com/@RolfHut) of
 
 This code is published under the GNL2 license, see the license file. When using this work, or when citing this work as an example, use the following citation:
 
-Rolf Hut (2014). ArduinoI2CSensorNetworkTwitter. ZENODO. DOI: 10.5281/zenodo.11240
+Rolf Hut (2014). ArduinoI2CSensorNetworkTwitter. ZENODO. DOI: 10.5281/zenodo.11241
 
 For easy citation in bibtex, endnote and other reference formats, follow this link:
 [![DOI](https://zenodo.org/badge/5500/RolfHut/ArduinoI2CSensorNetworkTwitter.png)](http://dx.doi.org/10.5281/zenodo.11241)
